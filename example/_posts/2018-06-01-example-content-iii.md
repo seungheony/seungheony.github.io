@@ -11,7 +11,7 @@ image:
     265w:  /assets/img/blog/example-content-iii@0,25x.jpg
 related_posts:
   - example/_posts/2017-11-23-example-content-ii.md
-  - /_posts/swift/2012-02-07-example-content/
+  - /example/2012-02-07-example-content/
 sitemap: false
 ---
 
